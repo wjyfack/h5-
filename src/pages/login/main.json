@@ -1,0 +1,6 @@
+{
+    "navigationBarTitleText": "传动医生",
+    "usingComponents": {
+        "van-button": "../../static/vant/button/index"
+    }
+}

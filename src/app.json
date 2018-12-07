@@ -1,0 +1,35 @@
+{
+  "pages": [
+    "pages/index/main"
+    ,"pages/publish/main"
+    ,"pages/consult_publish/main"
+    ,"pages/message_nieye/main"
+    ,"pages/my_bell/main"
+    ,"pages/my_order/main"
+    ,"pages/my_publish/main"
+    ,"pages/setting/main"
+    ,"pages/login/main"
+    ,"pages/my_problem/main"
+    ,"pages/my_renzheng/main"
+    ,"pages/my_login/main"
+    ,"pages/detail_repair/main"
+    ,"pages/demand_publish/main"
+    ,"pages/detail_consult/main"
+    ,"pages/detail_order/main"
+    ,"pages/pingjia_detail/main"
+    ,"pages/detail_article/main"
+    ,"pages/detail_demand/main"
+    ,"pages/baojia/main"
+    ,"pages/person_home/main"
+    ,"pages/article_list/main"
+    ,"pages/repair_list/main"
+    ,"pages/consult_ans/main"
+    ,"pages/search/main"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#5887F9",
+    "navigationBarTitleText": "传动医生",
+    "navigationBarTextStyle": "light"
+  }
+}

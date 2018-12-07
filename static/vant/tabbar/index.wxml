@@ -1,0 +1,6 @@
+<view
+  class="custom-class van-tabbar {{ fixed ? 'van-tabbar--fixed' : '' }}"
+  style="{{ zIndex ? 'z-index: ' + zIndex : '' }}"
+>
+  <slot />
+</view>
